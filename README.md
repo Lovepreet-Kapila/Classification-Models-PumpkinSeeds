@@ -42,6 +42,7 @@ The Random Forest model was used to rank which of the 12 features were most impo
 This provides real-world, interpretable insights (e.g., "Seed shape, not size, was the most important factor").
 
 **What I Learned**
+
 Model Comparison is Key: All three models performed well, but the Random Forest and SVM were slightly more robust and accurate, likely due to their ability to handle complex, non-linear relationships.
 
 Interpreting "Black Box" Models: While an SVM is powerful, its decision boundary can be hard to interpret. A Random Forest provides a great balance of high accuracy and interpretability through its feature importance rankings.
